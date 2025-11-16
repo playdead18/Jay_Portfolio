@@ -24,7 +24,7 @@ Small, single-page portfolio built with React + TypeScript. The site displays an
    ```
 
 ## Live demo
-- Live demo (replace with your URL): https://your-username.example.com
+- Live demo : https://jay-portfolio-liart.vercel.app/
 - Deploy to Vercel: https://vercel.com/docs
 - Deploy to GitHub Pages: https://docs.github.com/en/pages
 
