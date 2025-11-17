@@ -23,7 +23,7 @@ const Contact: React.FC = () => {
             <span>GitHub</span>
           </a>
           <a 
-            href="www.linkedin.com/in/jay-tatkondawar-30ab09210" 
+            href="https://www.linkedin.com/in/jay-tatkondawar-30ab09210/" 
             target="_blank"
             rel="noopener noreferrer"
             className="group flex items-center gap-3 px-8 py-4 bg-slate-800 hover:bg-slate-700 rounded-xl transition-all hover:scale-110 border border-slate-700 hover:border-slate-600"
