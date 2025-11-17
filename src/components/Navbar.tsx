@@ -27,7 +27,7 @@ const Navbar: React.FC<NavbarProps> = ({ activeSection, setActiveSection }) => {
     }
   };
 
-  const navItems: string[] = ['home', 'about', 'projects', 'skills', 'contact'];
+const navItems: string[] = ['home', 'about', 'experience', 'projects', 'skills', 'contact'];
 
   return (
     <nav className={`fixed w-full z-50 transition-all duration-300 ${

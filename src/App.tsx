@@ -7,6 +7,7 @@ import Projects from './components/Projects.tsx';
 import Skills from './components/Skills.tsx';
 import Contact from './components/Contact.tsx';
 import Footer from './components/Footer.tsx';
+import Experience from './components/Experience.tsx';  // Add this import
 
 const App: React.FC = () => {
   const [activeSection, setActiveSection] = useState<string>('home');
@@ -26,6 +27,7 @@ const App: React.FC = () => {
       <About />
       <Projects />
       <Skills />
+      <Experience />  {/* Add this line */}
       <Contact />
       <Footer />
     </div>
